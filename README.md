@@ -1,3 +1,2 @@
-seja bem vindo ao meu perfil.
-          Meu nome e Diego Fereira .
-estou estudando na Alura .
+.Seja bem vindo ao meu perfi    .Meu nome e Diego Fereira         
+ .Estou estudando na Alura 
