@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu perfi      
+## Seja bem vindo ao meu perfil     
 - Meu nome e Diego Fereira 
 - Estou estudando na ![Alura](linkhttps://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem JavaScript
